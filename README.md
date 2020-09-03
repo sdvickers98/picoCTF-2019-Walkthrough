@@ -24,6 +24,6 @@ Don't feel like you need to follow the walkthrough for every problem! Many of th
 
 P.S.: Thanks so much for checking this out. If you find any mistakes, or want to contact me for any other reason, give me an email at sdvickers98@gmail.com.
 
-Yours Truly,
+Keep Hacking,
 
 Dakota Vickers
