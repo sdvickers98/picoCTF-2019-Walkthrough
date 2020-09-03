@@ -7,54 +7,11 @@ This problem provides this image:
 
 We know from the hint that the flag will be in the following format: PICOCTF{*flag*}, so the brackets in the picture hint that the numbers may represent letters. A quick check of the first seven numbers (they spell "PICOCTF") confirms that it is a direct cipher between the letters of the alphabet and the numbers 1-26. In other words, 1=A, 2=B, 3=C, etc.
 
-You really should go ahead and figure out the flag yourself, but if you really want to be lazy (or just want to double check your answer), scroll down to see the flag.
+You really should go ahead and figure out the flag yourself, but if you really want to be lazy (or just want to double check your answer), click below to see the flag.
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-PICOCTF{THENUMBERSMASON}
+<details>
+  <summary>Spoiler warning</summary>
+  
+  PICOCTF{THENUMBERSMASON}
+  
+</details>
