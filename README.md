@@ -1,6 +1,6 @@
 # picoCTF 2019 Walkthrough
 
-Welcome to my walkthrough of picoCTF 2019! If you aren't familiar with picoCTF, here's an excerpt from the picoCTF [website](picoctf.com) about the game:
+Welcome to my walkthrough of picoCTF 2019! If you aren't familiar with picoCTF, here's an excerpt from the picoCTF [website](https://picoctf.com) about the game:
 
 >picoCTF is a free computer security game targeted at middle and high school students, created by security experts at Carnegie Mellon University. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. 
 
