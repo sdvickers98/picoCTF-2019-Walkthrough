@@ -1,4 +1,4 @@
-# picoCTF 2019 Walkthroughs
+# picoCTF 2019 Walkthrough
 
 Welcome to my walkthrough of picoCTF 2019! If you aren't familiar with picoCTF, here's an excerpt from the picoCTF [website](picoctf.com) about the game:
 
