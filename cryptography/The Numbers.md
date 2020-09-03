@@ -10,7 +10,7 @@ We know from the hint that the flag will be in the following format: PICOCTF{*fl
 You really should go ahead and figure out the flag yourself, but if you really want to be lazy (or just want to double check your answer), click below to see the flag.
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Flag</summary>
   
   PICOCTF{THENUMBERSMASON}
   
