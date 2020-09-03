@@ -19,3 +19,5 @@ You can choose to do the problems in whatever order of category you like.
 **NOTE:** All of the categories will be available from the beginning of the game, but you will have to do most of the problems within each category in sequential order.
 
 Don't feel like you need to follow the walkthrough for every problem! Many of the problems are written in such a way as to give hints to their solution. You'll make greater progress by only resorting to this walkthrough and others like it as a last resort. You'll get better at finding useful information (or as we say it, you'll improve your "google-fu"), which is a skill that every resourceful hacker needs to have. I hope you have fun playing picoCTF and make huge improvements to your hacking skills!
+
+**NOTE:** The flag of every picoCTF problem is in one of two formats: picoCTF{*flag*} or PICOCTF{*flag*}. Most problems have a hint as to which format it will use, and most of them use the first one. I will make a note of it when the second format is used.
