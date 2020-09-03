@@ -4,7 +4,7 @@ Welcome to my walkthrough of picoCTF 2019! If you aren't familiar with picoCTF, 
 
 >picoCTF is a free computer security game targeted at middle and high school students, created by security experts at Carnegie Mellon University. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge. 
 
-If you're older than middle and high school students, no worries! If you're a newbie, it's never too late to get interested in computer security, and picoCTF is a great game to give you the basic practical skills you need to get started. If you're already a skilled hacker, you can likely still find challenging problems in picoCTF that will interest you since it has problems related to many different areas of cyber security. 
+No worries if you're older than middle and high school students! If you're a newbie, it's never too late to get interested in computer security, and picoCTF is a great game to help you develop the basic practical skills you'll need to get started. If you're already a skilled hacker, you can likely still find challenging problems in picoCTF that will interest you, since it has problems related to many different areas of cyber security. 
 
 That being said, I've divided all of the problems in picoCTF based on their category. The categories are:
 * Binary Exploitation
