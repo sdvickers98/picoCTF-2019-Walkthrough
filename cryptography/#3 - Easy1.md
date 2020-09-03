@@ -38,6 +38,8 @@ In this case, the problem tells us that the key is SOLVECRYPTO. To encrypt a mes
 
 For example, with the key SOLVECRYPTO and the message HELLO, we would get the result ZSWGS. To get the first character, Z, we just look at where H (from HELLO) and S (from SOLVECRYPTO) intersect on the table.
 
+The problem gives us the key and the resulting encrypted message, so you'll have to do the encryption process in reverse to figure out the flag.
+
 Click below to see the flag.
 <details>
   <summary>Flag:</summary>
