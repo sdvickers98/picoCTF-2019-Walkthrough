@@ -22,7 +22,7 @@ Don't feel like you need to follow the walkthrough for every problem! Many of th
 
 **NOTE:** The flag of every picoCTF problem is in one of two formats: picoCTF{*flag*}, picoCTF{*FLAG*} or PICOCTF{*FLAG*}. Most problems use the first format, and problems that don't will usually make a note of it in a hint.
 
-P.S.: Thanks so much for checking this out. If you find any mistakes, or want to contact me for any other reason, give me an email at sdvickers98@gmail.com.
+P.S. : Thanks so much for checking this out. If you find any mistakes, or want to contact me for any other reason, give me an email at sdvickers98@gmail.com.
 
 Keep Hacking,
 
