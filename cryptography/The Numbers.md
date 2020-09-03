@@ -9,52 +9,52 @@ We know from the hint that the flag will be in the following format: PICOCTF{*fl
 
 You really should go ahead and figure out the flag yourself, but if you really want to be lazy (or just want to double check your answer), scroll down to see the flag.
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 PICOCTF{THENUMBERSMASON}
