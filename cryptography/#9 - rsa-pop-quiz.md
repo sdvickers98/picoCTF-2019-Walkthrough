@@ -264,7 +264,7 @@ Here is the message.
   14311663942709674867122208214901970650496788151239520971623411712977119645236321549653782653
 </details>
 
-For some reason I can't get the server to accept this answer, so I don't know what happens after this part. However, If you convert this message to hex and then to ascii, you get the flag:
+For some reason I can't get the server to accept this answer, so I don't know what happens after this part. However, If you convert this message to hex and then to ascii, you get the flag, so at least I did something right.
 ```python
 from Crypto.Util.number import long_to_bytes
 
@@ -276,3 +276,8 @@ print(long_to_bytes(m))
   <summary>Flag:</summary>
   picoCTF{wA8_th4t$_ill3aGal..o1c355060}
 </details>
+
+[Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
+
+[Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
+
