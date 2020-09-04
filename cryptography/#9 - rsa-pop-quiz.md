@@ -237,7 +237,7 @@ n : 2395293735264352745137922751642837770500489450856630431317788019166217706187
 plaintext
 IS THIS POSSIBLE and FEASIBLE? (Y/N):
 ```
-What do we need to decipher an RSA-encrypted message? Well *c<sup>d</sup> ≡ m (mod n)*, so we just need the ciphertext, *d*, and *n*. We are given the ciphertext and *n*, and we are actually given everything we need to find *d*. 
+What do we need to decipher an RSA-encrypted message? Well, *c<sup>d</sup> ≡ m (mod n)*, so we just need the ciphertext, *d*, and *n*. We are given the ciphertext and *n*, and we are actually given everything we need to find *d*. 
 
 Remember, *d ≡ e<sup>-1</sup> (mod φ(n))* and *φ(n) = (p - 1)(q - 1)*. We are given *n* and *p*, so we can find *q*. Thus, we have everything we need to produce the plaintext.
 ```
