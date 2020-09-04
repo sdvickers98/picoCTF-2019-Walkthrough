@@ -9,5 +9,6 @@
 7. [Tapping](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%237%20-%20Tapping.md)
 8. [la cifra de](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%238%20-%20la%20cifra%20de.md)
 9. [rsa-pop-quiz](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%239%20-%20rsa-pop-quiz.md)
+10. [miniRSA](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2310%20-%20miniRSA.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
