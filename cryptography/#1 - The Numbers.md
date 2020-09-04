@@ -1,6 +1,10 @@
 # The Numbers
+50 points
+
+### Description
 *"The numbers... what do they mean?"*
 
+### Solution
 This problem provides this image: 
 
 ![the_numbers.png](https://github.com/sdvickers98/picoCTF_Walkthroughs/blob/master/raw/the_numbers.png)
