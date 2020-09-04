@@ -9,7 +9,7 @@ As always, I recommend trying to figure this one out one your own. The name of t
 If you don't want to find out for yourself, here's a hint.
 <details>
   <summary>Hint:</summary>
-  These are International Maritime Signal Flags. Each one represents a letter or number, and you can use the [Wikipedia](https://en.wikipedia.org/wiki/International_maritime_signal_flags) page to decipher the message.
+  These are International Maritime Signal Flags. Each one represents a letter or number, and you can use the <a href="https://en.wikipedia.org/wiki/International_maritime_signal_flags">Wikipedia</a> page to decipher the message.
 </details>
 
 And for you lazy folks out there, here ya go.
