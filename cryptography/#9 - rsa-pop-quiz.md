@@ -258,10 +258,10 @@ d = inverse(e, totient)
 m = pow(c, d, n)
 print(m)
 ```
-Here it is.
+Here is the message.
 <details>
-  <summary>Message:</summary>
-14311663942709674867122208214901970650496788151239520971623411712977119645236321549653782653
+  <summary>Plaintext:</summary>
+  14311663942709674867122208214901970650496788151239520971623411712977119645236321549653782653
 </details>
 
 For some reason I can't get the server to accept this answer, so I don't know what happens after this part. However, If you convert this message to hex and then to ascii, you get the flag:
