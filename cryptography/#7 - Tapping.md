@@ -5,7 +5,7 @@
 *"Theres tapping coming in from the wires. What's it saying nc 2019shell1.picoctf.com 32273."*
 
 ### Solution
-If you've heard of or worked with **netcat**, you may recognize the command at the end of the prompt. Netcat is a utility for reading from and writing to network connections. 
+If you've heard of or worked with **netcat**, you may recognize the command at the end of the prompt. Netcat is a utility for reading from and writing to network connections, and it comes with most distributions of linux. You can go [here](https://www.linuxfordevices.com/tutorials/netcat-command-in-linux) for some good info on netcat. 
 
 The command above tells netcat to listen to 2019shell.picoctf.com on port 32273. If you run this command in a shell (picoCTF provides a linux server that you can use), you'll
 get the following output:
