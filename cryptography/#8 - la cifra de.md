@@ -29,25 +29,25 @@ If you do some googling on the title, "la cifra de", you might find out about a 
 
 The Vigenère cipher is a modified version of the Caesar cipher. Instead of always using the same value to shift characters by, the shift amount rotates through a repeating series of numbers. This series of repeating shift values is often represented by a keyword, or key. The place of each letter in the alphabet is the shift value that the letter represents (we treat the alphabet as if it's zero indexed, i.e. a = 0, b = 1, etc.).
 
-Okay, if that wasn't a good enough explanation, here's an example. Say we have the message "hello" and the keyword "abcde". Then, we look consecutively at the letters of the message and the key, using the key to determine the value that each letter in the message should be shifted by.
-* h + a = h + 0 = h
-* e + b = e + 1 = f
-* l + c = l + 2 = n
-* l + d = l + 3 = o
-* o + e = o + 4 = s
+Okay, if that wasn't a good enough explanation, here's an example. Say we have the message "HELLO" and the keyword "ABCDE". Then, we look consecutively at the letters of the message and the key, using the key to determine the value that each letter in the message should be shifted by.
+* H + A = H + 0 = H
+* E + B = E + 1 = F
+* L + C = L + 2 = N
+* L + D = L + 3 = O
+* O + E = O + 4 = S
 
-So, we get the resulting encrypted message: hfnos. 
+So, we get the resulting encrypted message: HFNOS. 
 
 Note that the message and keyword do not need to be the same length. If the keyword is longer than the message, then just use characters of the keyword until the entire message is encrypted. If the message is longer than the keyword, then just repeat using the letters in the keyword.
 
-Say we have the same message from earlier, "hello", and the keyword "abc".
-* h + a = h + 0 = h
-* e + b = h + 1 = f
-* l + c = l + 2 = n
-* l + a = l + 0 = l
-* o + b = 0 + 1 = p
+Say we have the same message from earlier, "HELLO", and the keyword "ABC".
+* H + A = H + 0 = H
+* E + B = E + 1 = F
+* L + C = L + 2 = N
+* L + A = L + 0 = L
+* O + B = O + 1 = P
 
-And the result: hfnlp.
+And the result: HFNLP.
 
 Cracking a Vigenère cipher is much more difficult than cracking a Caesar cipher. The best way to start is by trying to find the length of the key. This is often done by looking for repeated sequences of characters in the text. While this isn't true 100% of the time, these repeated sequences typically indicate words that are repeated in the message and just so happen to have been encrypted using the same part of the key multiple times.
 
