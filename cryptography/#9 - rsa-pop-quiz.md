@@ -199,7 +199,7 @@ e : 65537
 d
 IS THIS POSSIBLE and FEASIBLE? (Y/N):
 ```
-We know *d* is determined as a number satisfying *de ≡ 1 (mod λ(n))*. So, yes, this is possible.
+We know *d* is determined as a number satisfying *de ≡ 1 (mod λ(n))*. We are given *e*, and we can find out *λ(n)* using *p* and *q*. So, yes, this is possible.
 ```
 #### TIME TO SHOW ME WHAT YOU GOT! ###
 d: 
