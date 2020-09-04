@@ -66,7 +66,7 @@ NEIYNYTKWPSZNYGNTHITMTSZTCYVJZPRJZFZJYRKHPIBJNRKITTLTCTNNYGYYSEEITDTTECXJLTKIFRO
 These online crackers sometimes can't find the exact key, but they can usually get close enough that you can figure it out by inspecting the different keys that it tried and their associated outputs. There are often a few guessed keys that have the first few characters correct.
 
 
-I could go a little more into this specific encrypted message, but I really think you should crack it using the second link I provided above. You'll understand the cipher and how to crack it much better that way.
+I could go a little more into this specific encrypted message, but I really think you should crack it yourself using the second link I provided above. You'll understand the cipher and how to crack it much better that way.
 
 If you can't figure out the key.
 <details>
