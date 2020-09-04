@@ -7,6 +7,6 @@
 5. [Flags](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%235%20-%20Flags.md)
 6. [Mr-Worldwide](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%236%20-%20Mr-Worldwide.md)
 7. [Tapping](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%237%20-%20Tapping.md)
-8. [la cifra de](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%238%20la%20cifra%20de.md)
+8. [la cifra de](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%238%20-%20la%20cifra%20de.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
