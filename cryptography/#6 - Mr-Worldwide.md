@@ -38,3 +38,7 @@ As always, I recommend doing the legwork yourself, but here is the solution and 
   
   picoCTF{KODIAK_ALASKA}
 </details>
+
+[Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
+
+[Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
