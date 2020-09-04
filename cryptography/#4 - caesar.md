@@ -1,4 +1,7 @@
 # caesar
+100 points
+
+### Description
 *"Decrypt this message. You can find the ciphertext in /problems/caesar_2_10e2c1660e7b34790d93f61a1e4dd9d9 on the shell server."*
 
 The message provided is "picoCTF{ynkooejcpdanqxeykjrnpavoth}". 
