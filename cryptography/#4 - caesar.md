@@ -16,7 +16,7 @@ If you're having trouble figuring out what the shift is, you can find out below.
   The shift is +22, or a right shift by 22. This is the same thing as a left shift by 4.
 </details>
 
-And if you're super lazy and just want to see the flag:
+And if you're super lazy and just want to see the flag.
 <details>
   <summary>Flag:</summary>
   picoCTF{crossingtherubiconvrtezsxl}
