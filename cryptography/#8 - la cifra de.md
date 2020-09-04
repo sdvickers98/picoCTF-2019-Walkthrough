@@ -27,7 +27,7 @@ Gplrfdo’y xpcuso butvlky lpvjlrki tn 1555 gx l cuseitzltoty ol yse lncsz. Yse 
 
 If you do some googling on the title, "la cifra de", you might find out about a cipher called the **Vigenère cipher** that was first described in a work by Giovan Battista Bellaso entitled *La cifra del Sig. Giovan Battista Bellaso*.
 
-The Vigenère cipher is a modified version of the Caesar cipher. Instead of always using the same value to shift characters by, the shift amount rotates through a repeating series of numbers. This series of repeating shift values is often represented by a keyword, or key. The place of each letter in the alphabet is the shift value that the letter represents (zero indexed, so a = 0).
+The Vigenère cipher is a modified version of the Caesar cipher. Instead of always using the same value to shift characters by, the shift amount rotates through a repeating series of numbers. This series of repeating shift values is often represented by a keyword, or key. The place of each letter in the alphabet is the shift value that the letter represents (we treat the alphabet as if it's zero indexed, i.e. a = 0, b = 1, etc.).
 
 Okay, if that wasn't a good enough explanation, here's an example. Say we have the message "hello" and the keyword "abcde". Then, we go consecutively through letters of the message and the key, using the key to determine the value that each letter should be shifted by.
 * h + a = h + 0 = h
