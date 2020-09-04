@@ -1,6 +1,10 @@
 # Flags
+200 points
+
+### Description
 *"What do the flags mean?"*
 
+### Solution
 This problem provides this image:
 ![flags.png](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/raw/flag.JPG)
 
