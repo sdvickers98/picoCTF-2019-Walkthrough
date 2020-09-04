@@ -244,7 +244,9 @@ Remember, *d ≡ e<sup>-1</sup> (mod φ(n))* and *φ(n) = (p - 1)(q - 1)*. We ar
 #### TIME TO SHOW ME WHAT YOU GOT! ###
 plaintext: 
 ```
-Here's a python script to do this for us:
+It's **very** important to note here that the ciphertext provided to you is unique to your picoCTF account. Therefore, it will be slightly different for everyone. Make sure your decrypting your unique ciphertext and not the ciphertext I have here.
+
+Here's a python script to do this encryption for us:
 ```python
 from Crypto.Util.number import inverse
 
@@ -258,23 +260,24 @@ d = inverse(e, totient)
 m = pow(c, d, n)
 print(m)
 ```
-Here is the message.
+Here is **my** message. Remember, yours will probably be different.
 <details>
   <summary>Plaintext:</summary>
-  14311663942709674867122208214901970650496788151239520971623411712977119645236321549653782653
+  14311663942709674867122208214901970650496788151239520971623411712977120545970596944152836477
 </details>
 
-For some reason I can't get the server to accept this answer, so I don't know what happens after this part. However, If you convert this message to hex and then to ascii, you get the flag, so at least I did something right.
+Once you enter your unique plaintext message, the prompt tells you to convert the plaintext to hex, then to ascii. Here's some python code that can do that for us:
 ```python
 from Crypto.Util.number import long_to_bytes
 
-m = 14311663942709674867122208214901970650496788151239520971623411712977119645236321549653782653
+m = 14311663942709674867122208214901970650496788151239520971623411712977120545970596944152836477
 print(long_to_bytes(m))
 ```
 
+Remember, your flag will be unique to you, but it should follow the format below with the X's replaced with random characters.
 <details>
   <summary>Flag:</summary>
-  picoCTF{wA8_th4t$_ill3aGal..o1c355060}
+  picoCTF{wA8_th4t$_ill3aGal..XXXXXXXXX}
 </details>
 
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
