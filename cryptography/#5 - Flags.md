@@ -17,3 +17,7 @@ And for you lazy folks out there, here ya go.
   <summary>Flag:</summary>
   PICOCTF{F1AG5AND5TUFF}
 </details>
+
+[Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
+
+[Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
