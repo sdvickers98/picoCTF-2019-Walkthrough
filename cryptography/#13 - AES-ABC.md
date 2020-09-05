@@ -147,7 +147,8 @@ So, the python code above just applies the AES-ECB encryption to each block of t
 sum  of its ECB ciphertext and the ECB ciphertext of every block that came before it. So, the last block will be the sum of the ECB ciphertexts from each block. 
 
 Have you tried viewing that "body.enc.ppm" image yet? If you can't figure out how to view it, you can use [gimp](https://www.gimp.org/).
-You might notice that the pixels look more cluttered towards the bottom of the image. That's because of the rolling effect.
+You might notice that the pixels look more cluttered in the vertical center of the image. That's because of the rolling effect taking place in an area where the actual content
+of the image is.
 
 If we can undo the rolling process, then we can get image file that was encrypted using only normal ECB, and that might be enough to solve this problem.
 Here's how we can do that in python:
