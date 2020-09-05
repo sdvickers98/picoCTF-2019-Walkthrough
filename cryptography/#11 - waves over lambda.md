@@ -23,8 +23,7 @@ We know the cipher uses subsitution, but it isn't a type of shift cipher. We als
 hints that we are probably dealing with a **cryptogram**. 
 
 Cryptograms are usually short puzzles in which you must break a cipher where every letter is replaced by a different letter. This differs from the Caesar cipher because the 
-substituted letters are not always a fixed amount to the left or right of the letter being replaced. However, cryptograms are often easier to crack than Vigenère ciphers because
-each letter will always have the same substitute letter. In a Vigenère cipher, each letter has a number of different substitute letters equal to the length of the key.
+substituted letters are not always a fixed amount to the left or right of the letter being replaced. So, these are a little hard to crack than a Caesar cipher. However, cryptograms are often easier to crack than Vigenère ciphers because each letter will always have the same substitute letter. In a Vigenère cipher, each letter has a number of different substitute letters equal to the length of the key. 
 
 There's a good cryptogram cracker [here](https://www.boxentriq.com/code-breaking/cryptogram). This one also gives you the option to try to crack the cipher by hand. The best way
 to do this is by looking for repeated two or three letter words (contractions are good ones) and guessing what certain letters are. It's a lot of trial and error, but it can be 
