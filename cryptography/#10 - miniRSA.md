@@ -14,8 +14,18 @@ ciphertext (c): 2205316413931134031074603746928247799030155221252519872649594750
 ```
 This is an example of very weak RSA encryption because *e* is so small. If you want to know more specifics about RSA encryption, I go into more detail about it in my [walkthough](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%239%20-%20rsa-pop-quiz.md) for the previous problem.
 
-Whenever *e* is too small, you run the risk of *c ≡ m<sup>e</sup>* being smaller than *n*. This is bad because anyone can just find the "*e*'th root" of *c* in the integers to decipher the message. You can do this in python, but since *e* is 3 here, you can just use [this](https://www.gigacalculator.com/calculators/cube-root-calculator.php) cube-root calculator.
+Whenever *e* is too small, you run the risk of *c ≡ m<sup>e</sup>* being smaller than *n*. This is bad because anyone can just find the "*e*'th root" of *c* in the integers to decipher the message. We can do this in python easily, but we'll need to use a module called [gmpy2](https://gmpy2.readthedocs.io/en/latest/intro.html). These numbers are larger than what python can normally handle, but gmpy2 helps us get around that. 
+```python
+import gmpy2
 
-We get *m = 13016382529448975049937056264654191108020998208395813341903515045258909345382400*.
+n = 29331922499794985782735976045591164936683059380558950386560160105740343201513369939006307531165922708949619162698623675349030430859547825708994708321803705309459438099340427770580064400911431856656901982789948285309956111848686906152664473350940486507451771223435835260168971210087470894448460745593956840586530527915802541450092946574694809584880896601317519794442862977471129319781313161842056501715040555964011899589002863730868679527184420789010551475067862907739054966183120621407246398518098981106431219207697870293412176440482900183550467375190239898455201170831410460483829448603477361305838743852756938687673
+e = 3
+c = 2205316413931134031074603746928247799030155221252519872649602375643231006596573791863783976856797977916843724727388379790172135717557077760267874464115099065405422557746246682213987550407899612567166189989232143975665175662662107329564517 
 
-// TODO fix this
+mpz_c = gmpy2.mpz(c)
+mpz_n = gmpy2.mpz(n)
+mpz_e = gmpy2.mpz(e)
+
+root, exact = gmpy2.iroot(mpz_c, mpz_e)
+print(format(root, 'x').decode('hex'))
+```
