@@ -13,8 +13,8 @@ vrebsoqx hwsw ux krzs dmob - dswazwevk_ux_v_rcws_moygpo_yzlblweerp
 omwfwk dkrprsrcuqvh tosoyojrc iox qhw qhusp xre rd dkrprs locmrcuqvh tosoyojrc, o moep riews iwmm terie ue rzs puxqsuvq ue hux rie pok, oep xqumm swywygwswp oyreb zx riueb qr hux bmrryk oep qsobuv pwoqh, ihuvh hollwewp qhusqwwe kwosx obr, oep ihuvh u xhomm pwxvsugw ue uqx lsrlws lmovw. drs qhw lswxweq u iumm remk xok qhoq qhux moepriewsdrs xr iw zxwp qr vomm huy, omqhrzbh hw hospmk xlweq o pok rd hux mudw re hux rie wxqoqwiox o xqsoebw qklw, kwq rew lswqqk dswazweqmk qr gw ywq iuqh, o qklw ognwvq oep cuvurzx oep oq qhw xoyw quyw xwexwmwxx. gzq hw iox rew rd qhrxw xwexwmwxx lwsxrex ihr osw cwsk iwmm vologmw rd mrrtueb odqws qhwus irsmpmk oddousx, oep, ollosweqmk, odqws erqhueb wmxw. dkrprs locmrcuqvh, drs uexqoevw, gwboe iuqh ewfq qr erqhueb; hux wxqoqw iox rd qhw xyommwxq; hw soe qr puew oq rqhws ywe'x qogmwx, oep doxqwewp re qhwy ox o qropk, kwq oq hux pwoqh uq ollwoswp qhoq hw hop o hzepswp qhrzxoep srzgmwx ue hosp voxh. oq qhw xoyw quyw, hw iox omm hux mudw rew rd qhw yrxq xwexwmwxx, doeqoxquvom dwmmrix ue qhw ihrmw puxqsuvq. u swlwoq, uq iox erq xqzlupuqkqhw yonrsuqk rd qhwxw doeqoxquvom dwmmrix osw xhswip oep ueqwmmubweq werzbhgzq nzxq xwexwmwxxewxx, oep o lwvzmuos eoqureom drsy rd uq.
 ```
 
-If you've taken physics before, you may recall that the the velocity of a wave, *v*, divided by the wavelength of the wave, *λ*, is equal to the frequency of the wave, *f*. That's
-what the title "waves over lambda" is hinting: frequency.
+If you've taken physics before, you may recall that the the velocity of a wave, *v*, divided by the wavelength of the wave, *λ*, is equal to the frequency of the wave, *f*, 
+i.e. *f = v / λ*. That's what the title "waves over lambda" is hinting at: frequency.
 
 We should try frequency analysis on this cipher. If we throw it in [this](https://simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html) tool that I recommended in my
 walkthrough of the Vigenère cipher problem, we don't really get anywhere. 
