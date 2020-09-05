@@ -10,5 +10,6 @@
 8. [la cifra de](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%238%20-%20la%20cifra%20de.md)
 9. [rsa-pop-quiz](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%239%20-%20rsa-pop-quiz.md)
 10. [miniRSA](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2310%20-%20miniRSA.md)
+11. [waves over lambda](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2311%20-%20waves%20over%20lambda.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
