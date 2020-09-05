@@ -27,7 +27,7 @@ RSA is a type of **public-key cryptography**, also knows as asymmetric cryptogra
 
 Let's say Bob is using a public-key encryption system to receive secret messages. Bob has a public key and private key assoicated with him. The public key is, well, public. It can be used by anyone to encrypt a message for Bob, but the message can only be decrypted by Bob, using the private key.
 
-Okay, I'm going to go pretty deep into the woods about RSA encryption. I'll try to provide links as much as possible so this doesn't get too long-winded. If you already know how RSA encryption works or just don't care to find out (I really hope it's the former), then you can just <a href="#back_to_problem">skip</a> to the part relevant to this problem
+Okay, I'm going to go pretty deep into the woods about RSA encryption. I'll try to provide links as much as possible so this doesn't get too long-winded. If you already know how RSA encryption works or just don't care to find out (I really hope it's the former), then you can just <a href="#back_to_problem">skip</a> to the part relevant to this problem, though you might not understand *why* we are doing some things.
 
 RSA encryption is related to [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic). I won't go too much into modular arithmetic, but the main thing you need to know is that two numbers are *equivalent modulo n* if they give the same remainder when divided by *n*. If we call the two numbers *a* and *b*, this relationship can also be shown through the expression "*a ≡ b (mod n)*", read "*a* is congruent to *b* mod *n*".
 
