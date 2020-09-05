@@ -11,5 +11,7 @@
 9. [rsa-pop-quiz](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%239%20-%20rsa-pop-quiz.md)
 10. [miniRSA](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2310%20-%20miniRSA.md)
 11. [waves over lambda](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2311%20-%20waves%20over%20lambda.md)
+12. [b00tl3gRSA2](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2312%20-%20b00tl3gRSA2.md)
+13. [AES-ABC](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2313%20-%20AES-ABC.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
