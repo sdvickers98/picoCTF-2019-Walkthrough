@@ -89,7 +89,7 @@ So, a file called "flag.ppm" was encrypted using this source code and then given
 
 You've probably thought by now to google "AES" or "AES-ECB", and if you have then you're on the right track. But before we talk about that, we need to talk about block ciphers.
 
-By the way, I'm going to go down the rabbit hole a little bit about the math behind this stuff, so if you already know about it or just don't want to know about the math, 
+By the way, I'm going to talk about the math behind this stuff a little bit, so if you already know about it or just don't want to know about the math, 
 you can <a href="#back_to_problem">skip</a> to when I start talking about this problem again. However, if you don't know the math behind it, you won't really understand 
 *why* we are doing the things that we do.
 
