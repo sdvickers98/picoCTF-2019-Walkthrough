@@ -27,7 +27,7 @@ RSA is a type of **public-key cryptography**, also knows as asymmetric cryptogra
 
 Let's say Bob is using a public-key encryption system to receive secret messages. Bob has a public key and private key assoicated with him. The public key is, well, public. It can be used by anyone to encrypt a message for Bob, but the message can only be decrypted by Bob, using the private key.
 
-Okay, I'm going to go pretty deep into the woods about RSA encryption. I'll try to provide links as much as possible so this doesn't get too long-winded.
+Okay, I'm going to go pretty deep into the woods about RSA encryption. I'll try to provide links as much as possible so this doesn't get too long-winded. If you already know how RSA encryption works or just don't care to find out (I really hope it's the former), then you can just <a href="#back_to_problem">skip</a> to the part relevenant to this problem
 
 RSA encryption is related to [modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic). I won't go too much into modular arithmetic, but the main thing you need to know is that two numbers are *equivalent modulo n* if they give the same remainder when divided by *n*. If we call the two numbers *a* and *b*, this relationship can also be shown through the expression "*a â‰¡ b (mod n)*", read "*a* is congruent to *b* mod *n*".
 
@@ -37,7 +37,7 @@ This key expression is behind the RSA algorithm: *(m<sup>e</sup>)<sup>d</sup> â‰
 
 If we think in terms of encrypting a message, *m* represents the value of the character being encrypted, *e* and *n* represent the public key, and *d* represents the private key.
 
-If *e*,*d*, and *n* are very large positive integers, it can be very difficult to find *d* even if you know *n* and *e*, and even *m*. I won't go too much into the math behind it, but it's related to how difficult it is to try all combinations of prime factors for very large numbers. You can look [here](https://certauth.epfl.ch/rsa/) for some of the more nitty gritty math if you're interested.
+If *d* and *n* are very large positive integers, it can be very difficult to find *d* even if you know *n* and *e* and even *m*. I won't go too much into the math behind it, but it's related to how difficult it is to try all combinations of prime factors for very large numbers. You can look [here](https://certauth.epfl.ch/rsa/) for some of the more nitty gritty math if you're interested.
 
 There are four main steps to the using the RSA system: key generation, key distribution, encryption, and decription.
 
@@ -65,7 +65,8 @@ When Bob receives the ciphertext from Alice, he can decrypt it using *d*, the pr
 
 Now Bob just needs to reverse the padding scheme on *m*, and he'll have the message!
 
-#### Back to the problem
+<h4 id="back_to_problem">Back to the problem</h4>
+
 So the prompt we were given after using the netcat command was this:
 ```
 Good morning class! It's me Ms. Adleman-Shamir-Rivest
