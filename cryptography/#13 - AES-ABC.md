@@ -146,7 +146,7 @@ You can pretty clearly see what the image is because of how weak ECB is. Okay, h
 So, the python code above just applies the AES-ECB encryption to each block of the image file's bits, then does a rolling encryption effect. Essentially, each line will be the 
 sum  of its ECB ciphertext and the ECB ciphertext of every block that came before it. So, the last block will be the sum of the ECB ciphertexts from each block. 
 
-Have you tried viewing that "body.enc.ppm" image yet? If you can't figure out how to view it and you're on linux or a linux VM, you can use [gimp](https://www.gimp.org/)
+Have you tried viewing that "body.enc.ppm" image yet? If you can't figure out how to view it, you can use [gimp](https://www.gimp.org/).
 You might notice that the pixels look more cluttered towards the bottom of the image. That's because of the rollingeffect.
 
 If we can undo the rolling process, then we can get image file that was encrypted using only normal ECB, and that might be enough to solve this problem.
