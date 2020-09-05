@@ -26,7 +26,7 @@ c = 2205316413931134031074603746928247799030155221252519872649602375643231006596
 root, exact = gmpy.root(c, e)
 print(long_to_bytes(root).decode())
 ```
-**Note:** The `exact` variable above is just the second thing returned by the `root` function. It's a boolean that is true if the root is exact, and false otherwise.
+**Note:** The `exact` variable above is just the second thing in the tuple that's returned by the `root` function. It's a boolean that is true if the root is exact, and false otherwise.
 
 This is why it's dangerous to have a small *e*. Shorter messages end up with values of *m<sup>e</sup>* that are smaller than *n*, so the modular arithmetic part of RSA encryption becomes irrelevant.
 
