@@ -1,10 +1,10 @@
 # 2Warm
 50 points
 
-# Description
+### Description
 *"Can you convert the number 42 (base 10) to binary (base 2)?"*
 
-# Solution
+### Solution
 I'm not going to go too deep into the binary number system. If you aren't familiar with it already, you can find a pretty intuitive tutorial [here](https://www.mathsisfun.com/binary-number-system.html) that will help you become familiar with binary numbers.
 
 You can do this really easily in python:
