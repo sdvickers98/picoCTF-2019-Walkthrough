@@ -13,5 +13,6 @@
 11. [waves over lambda](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2311%20-%20waves%20over%20lambda.md)
 12. [b00tl3gRSA2](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2312%20-%20b00tl3gRSA2.md)
 13. [AES-ABC](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2313%20-%20AES-ABC.md)
+14. [b00tl3gRSA3](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2313%20-%20b00tl3gRSA3.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
