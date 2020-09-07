@@ -33,10 +33,10 @@ flag = long_to_bytes(pow(c,d,n)).decode()
 print(flag)
 ```
 
-Remember, you're flag will be unique to you, but it should follow the format below with the X's replaced with random numbers.
+Remember, you're flag will be unique to you, but it should follow the format below with the X's replaced with random characters.
 <details>
   <summary>Flag:</summary>
-  picoCTF{too_many_fact0rs_7187489}
+  picoCTF{too_many_fact0rs_XXXXXXX}
 </details>
 
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
