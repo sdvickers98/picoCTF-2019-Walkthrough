@@ -44,6 +44,9 @@ This one has kind of a weird flag. It's just *p* and *q*, comma-separated with n
   picoCTF{73176001,67867967}
 </details>
 
+And that's the last cryptography problem in picoCTF! We got to work our way up from some pretty basic ciphers to some more complex encryption algorithms that are 
+commonly used today. I really hope you've enjoyed these problems and that they've made you more interested in cryptography!
+
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
