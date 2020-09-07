@@ -123,8 +123,7 @@ The AES needs to generate a separate 128-bit key for each round, plus an initial
 
 The math behind the AES is a little dense, but it basically consists of substitution and permutation. I would go into more detail about it here, but the AES
 [Wikipedia](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard#High-level_description_of_the_algorithm) page has a good explanation of the algorithm.
-If you'd rather learn by watching than reading, check out [this](https://www.youtube.com/watch?v=O4xNJsjtN6E) Computerphile video about the AES algorithm. I highly
-recommend that you understand it before continuing.
+If you'd rather learn by watching than reading, check out [this](https://www.youtube.com/watch?v=O4xNJsjtN6E) Computerphile video about the AES algorithm. I highly recommend that you check out at least one of these resources and make sure you understand the algorithm before continuing.
 
 <h4 id="back_to_problem">Back to the problem</h4>
 
