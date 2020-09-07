@@ -178,7 +178,7 @@ for b in blocks:
 
 out_file.write(b'\n'.join(headers.split(b" ")) + b'\n' + image)
 ```
-You should be able to see the flag if you view the newly decrypted image file.
+You should be able to see the flag if you view the newly decrypted image file. It will look like the image above, "encrypted" but still easy to tell what the image is supposed to be.
 
 <details>
   <summary>Flag:</summary>
