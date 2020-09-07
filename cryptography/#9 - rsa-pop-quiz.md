@@ -143,7 +143,7 @@ Wait, that one didn't work???
 
 This is actually not a huge deal. The original [paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf) describing RSA encryption uses a different totient function from the one I introduced. They used the **Euler totient function**: *φ(n) = (p − 1)(q − 1)*. 
 
-Either one od these totient functions can be used for RSA encryption, since it can be shown that any *d* satisfying *d⋅e ≡ 1 (mod φ(n))* also satisfies *d⋅e ≡ 1 (mod λ(n))*. The one I introduced is more commonly used nowadays for reasons I won't really get into. Let's just say that RSA encryption works better when *d < λ(n)*, and *λ(n)* is a better totient function than *φ(n)* for satisfying that condition.
+Either one of these totient functions can be used for RSA encryption since it can be shown that any *d* satisfying *d⋅e ≡ 1 (mod φ(n))* also satisfies *d⋅e ≡ 1 (mod λ(n))*. The one I introduced is more commonly used nowadays for reasons I won't really get into. Let's just say that RSA encryption works better when *d < λ(n)*, and *λ(n)* is a better totient function than *φ(n)* for satisfying that condition.
 
 So, if we try this new totient function, we get the correct answer: *φ(n) = (p − 1)(q − 1) = 66346 x 12610 = **836623060***. Next prompt:
 ```
