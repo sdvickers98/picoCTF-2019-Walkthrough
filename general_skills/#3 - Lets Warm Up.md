@@ -1,10 +1,10 @@
 # Lets Warm Up
 50 points
 
-# Description
+### Description
 *"If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?"*
 
-# Solution
+### Solution
 You can use a hex to ascii converter like [this](https://www.rapidtables.com/convert/number/hex-to-ascii.html) one to figure this one out. Don't forget to leave
 off the "0x".
 
