@@ -7,6 +7,6 @@
 5. [Bases](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%235%20-%20Bases.md)
 6. [First Grep](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%236%20-%20First%20Grep.md)
 7. [Resources](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%237%20-%20Resources.md)
-8. [strings it]
+8. [strings it](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%238%20-%20strings%20it.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
