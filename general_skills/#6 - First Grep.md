@@ -8,7 +8,7 @@
 This question is meant to test your knowledge of the command `grep`. This command is used to search through files to find lines that match certain patters.
 You can learn more about it by reading the [linux man page] for `grep`.
 ```
-grep 'pico' file
+$ grep 'pico' file
 ```
 
 This command said to search "file" for any lines containing the string "pico". This command gives us the flag.
