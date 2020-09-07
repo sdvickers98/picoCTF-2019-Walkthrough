@@ -48,7 +48,7 @@ Compute *λ(n) = lcm(p − 1, q − 1)* (This equivalency takes a lot of work to
 
 Choose *e* such that *1 < e < λ(n)* and *e* and *n* are **coprime**, i.e. *gcd(e, λ(n)) = 1. As mentioned before, *e* is part of the public key.
 
-Determine *d* as the modular multiplicative inverse of *e* modulo *λ(n)*, i.e. solve for *d* in the equation *de ≡ 1 (mod λ(n))*. Remember,*d* is the private key.
+Determine *d* as the modular multiplicative inverse of *e* modulo *λ(n)*, i.e. solve for *d* in the equation *de ≡ 1 (mod λ(n))*. Remember, *d* is the private key.
 
 So, the public parts are *e* and *n*. The private part is *d*, but *p*,*q*, and *λ(n)* must also be kept private since they are used to compute *d*.
 
