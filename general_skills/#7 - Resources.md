@@ -8,7 +8,7 @@
 This is a pretty easy one if you know where to look. So if you visit this link, you'll want to look at the page's source code. I'm using Firefox on Linux Mint, 
 so I can do that with Ctrl+u. It may be different for you, just check what the keybinding is for your browser and operating system.
 
-Now that we are viewing the page source, just use Ctrl+f to search for "picoCTF{" on the page to find the flag.
+Now that we are viewing the page source, we can just use Ctrl+f to search for "picoCTF{" on the page to find the flag.
 
 <details>
   <summary>Flag:</summary>
