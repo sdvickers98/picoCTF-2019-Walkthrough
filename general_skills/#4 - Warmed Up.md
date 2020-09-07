@@ -1,10 +1,10 @@
 # Warmed Up
 50 points
 
-# Description
+### Description
 *"What is 0x3D (base 16) in decimal (base 10)."*
 
-# Solution
+### Solution
 This is another simple one in python:
 ```python
 print(int(0x3d))
