@@ -13,21 +13,6 @@ bin(42)
 ```
 And we get the output `0b101010`.
 
-We could also do this by hand. The easiest way to do this is to repeatedly subtract the largest possible power of 2 from 42. 
-
-We start off with 2<sup>5</sup> = 32 since the next highest power of 2, 64, is larger than 42. 42 - 32 = 10. The next lowest power is 16, but this 
-is larger than 10 so we get a 0 for 16.
-
-Right now we have a 1 for 32 and a 0 for 16. 
-
-8 is smaller than 10 so it gets a 1. 10 - 8 = 2. The next power is 4, but it's bigger than 2, so it gets a 0. 
-
-2 is equal to 2, so it gets a 1. 2 - 2 = 0. 
-
-There's nothing left to check, so 1 gets a 0.
-
-Alltogether, we have 101010.
-
 <details>
   <summary>Flag:</summary>
   picoCTF{101010}
