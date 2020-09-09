@@ -9,7 +9,7 @@ No worries if you're older than middle and high school students! If you're a new
 That being said, I've divided all of the solutions for picoCTF just like the game does it: based on their category. The categories are:
 * [General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 * [Cryptography](https://github.com/sdvickers98/picoCTF_Walkthroughs/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
-* Binary Exploitation
+* [Binary Exploitation](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/binary_exploitation/%230%20-%20Binary%20Exploitation%20Homepage.md)
 * Forensics
 * Reverse Engineering
 * Web Exploitation
