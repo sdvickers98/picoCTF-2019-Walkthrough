@@ -51,7 +51,7 @@ This should get you the flag. Just use Ctrl+C to terminate the netcat process.
   picoCTF{digital_plumb3r_4e7a5813}
 </details>
 
-[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2312%20-%20plumbing.md)
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2313%20-%20whats-the-difference.md)
 
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
