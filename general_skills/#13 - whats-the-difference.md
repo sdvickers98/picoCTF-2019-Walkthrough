@@ -17,7 +17,7 @@ Binary files cattos.jpg and kitters.jpg differ
 This is because these are binary image files. To compare files byte by byte, we want to use `cmp` instead of `diff`. 
 
 If we look at the [man page](https://man7.org/linux/man-pages/man1/cmp.1.html) for `cmp`, we see that the `-b` flag will print the differing bytes,
-and `-l` will print the actualbyte numbers that differ and the values that differ. 
+and `-l` will print the byte numbers that differ and the actual values that differ. 
 
 If we run this command using these two flags on the provided files, we get this:
 ```
