@@ -26,6 +26,8 @@ And if you're super lazy and just want to see the flag.
   picoCTF{crossingtherubiconvrtezsxl}
 </details>
 
+[Next Page](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%235%20-%20Flags.md)
+
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
