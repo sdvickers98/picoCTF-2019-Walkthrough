@@ -7,10 +7,10 @@ Welcome to my walkthrough of picoCTF 2019! If you aren't familiar with picoCTF, 
 No worries if you're older than middle and high school students! If you're a newbie, it's never too late to get interested in computer security, and picoCTF is a great game to help you develop the basic practical skills you'll need to get started. If you're already a skilled hacker, you can likely still find challenging problems in picoCTF that will interest you, since it has problems related to many different areas of cyber security. 
 
 That being said, I've divided all of the solutions for picoCTF just like the game does it: based on their category. The categories are:
-* Binary Exploitation
+* [General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 * [Cryptography](https://github.com/sdvickers98/picoCTF_Walkthroughs/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
+* Binary Exploitation
 * Forensics
-* General Skills
 * Reverse Engineering
 * Web Exploitation
 
