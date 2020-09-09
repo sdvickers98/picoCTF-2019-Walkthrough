@@ -195,16 +195,16 @@ int main()
 }
 ```
 
-If you look at the line I pointed out in the code, the product of 900 and `number_flags` is saved in `total_cost`. However, digned integers in C can only be 
+If you look at the line I pointed out in the code, the product of 900 and `number_flags` is saved in `total_cost`. However, signed integers in C can only be 
 as large as 2,147,483,647. Any larger than that, and the left-most bit of the memory bits allocated for that integer will become a 1. 
 
 Why is this a problem? Well, modern computers represent numbers using [two's complement](https://en.wikipedia.org/wiki/Two%27s_complement). Without going 
 into too much detail, this means that the left-most bit being a 1 signifies that the number is actually *negative*. If you don't know about two's complement, 
-you should become familiar with it. It's an extremely important concept related to how computer's actually do mathematical operations.
+you should become familiar with it. It's an extremely important concept related to how computers actually do mathematical operations.
 
-So what happens if we add 1 to an `int` variable that holds 2,147,483,647? Well, it actually loops around to the largest (in magnitude) negative number available in C: -2,147,483,648. What if we subtract 1 from this new number? You guessed it, it would become 2,147,483,647.
+So what happens if we add 1 to an variable of type `int` that holds 2,147,483,647? Well, it actually loops around to the largest (in magnitude) negative number available in C: -2,147,483,648. What if we subtract 1 from this new number? You guessed it, it would become 2,147,483,647.
 
-So how does this help in this problem. Well if we can overflow `total_cost` and make it negative, then we would actually be *adding* to our balance by buying these flags. This technique is known as an [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow).
+So how does this help in this problem? Well if we can overflow `total_cost` and make it negative, then we would actually be *adding* to our balance by buying these flags. This technique is known as an [integer overflow](https://en.wikipedia.org/wiki/Integer_overflow).
 
 We need `total_cost` to be greater than 2,147,483,647 so it will become negative. This means buying a number of flags greater than `2,147,483,647 / 900 = 2386092.94111`. To make sure this is large enough, I just rounded the number up to 2,386,100.
 ```
