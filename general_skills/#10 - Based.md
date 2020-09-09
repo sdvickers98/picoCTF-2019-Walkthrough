@@ -17,6 +17,8 @@ with this one. You can also look into [binascii](https://docs.python.org/3/libra
   picoCTF{learning_about_converting_values_6cdcad0d}
 </details>
 
+[Next Page](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2311%20-%20First%20Grep:%20Part%20II.md)
+
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
