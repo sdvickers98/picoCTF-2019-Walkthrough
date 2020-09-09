@@ -130,6 +130,8 @@ the same line as the output. This can be easily done by adding `; echo` to the e
 $ cmp -bl cattos.jpg kitters.jpg | awk '{print $3}' | tr -d '\n'; echo
 ```
 
+See how useful chaining together commands with pipes can be? You should'be gotten the flag from this command.
+
 <details>
   <summary>Flag:</summary>
   picoCTF{th3yr3_a5_d1ff3r3nt_4s_bu773r_4nd_j311y_aslkjfdsalkfslkflkjdsfdszmz10548}
