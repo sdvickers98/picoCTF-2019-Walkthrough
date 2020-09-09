@@ -238,7 +238,7 @@ You should be able to buy the second flag now.
   picoCTF{m0n3y_bag5_783740a8}
 </details>
 
-[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2315%20-%20flag_shop.md)
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2316%20-%20mus1c.md)
 
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
