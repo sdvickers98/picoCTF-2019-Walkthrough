@@ -76,7 +76,7 @@ with open('output.txt','r') as f:
     print()
 ```
 
-Put this in the normal picoCTF flag format and you've got the flag.
+`output.txt` is just a text file that I copy and pasted the numbers from the output into. Put this in the normal picoCTF flag format and you've got the flag.
 
 <details>
   <summary>Flag:</summary>
