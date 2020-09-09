@@ -111,7 +111,7 @@ I'll use this as an opportunity to introduce the `awk` command, which can manipu
 and manipulate text outputs that are presented in columns.
 
 The characters that make up the flag are in the third column of the output. Let's pretend that this output is in a file called `output.txt`. To read the file 
-line-by-line, printing only the third column, we can use `awk {print $3} output.txt`, where `$3` says to print the third column of each line.
+line-by-line, printing only the third column, we can use `awk '{print $3}' output.txt`, where `$3` says to print the third column of each line.
 
 In the previous example, the expression`{print $3}` is what's called an **AWK program**. It's actually a very simple program written in the AWK language, a 
 language used for text manipulation. Instead of passing in the AWK program in-line, a file containing a multi-line AWK program can be passed in. You can
