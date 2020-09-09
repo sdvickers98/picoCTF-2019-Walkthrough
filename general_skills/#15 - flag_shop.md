@@ -142,7 +142,7 @@ int main()
                 scanf("%d", &number_flags);
                 if(number_flags > 0){
                     int total_cost = 0;
-                    total_cost = 900*number_flags; // <--------------------------------------------- INTEGER OVERFLOW VULNERABILITY HERE
+                    total_cost = 900*number_flags; // <--------------------------- INTEGER OVERFLOW VULNERABILITY HERE
                     printf("\nThe final cost is: %d\n", total_cost);
                     if(total_cost <= account_balance){
                         account_balance = account_balance - total_cost;
