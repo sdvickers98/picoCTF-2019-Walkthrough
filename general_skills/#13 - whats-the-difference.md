@@ -105,7 +105,7 @@ $ cmp -bl cattos.jpg kitters.jpg
 1766742 175 }     13 ^K
 ```
 
-You can see the flag in there, and we can get it from this output if we want, but there's a better way to do this. 
+You can see the flag in there, and we can get it manually from this output if we want, but there's a better way to do this. 
 
 I'll use this as an opportunity to introduce the `awk` command, which can manipulate text using by looking for certain patterns. It's commonly used to search
 and manipulate text outputs that are presented in columns.
