@@ -22,6 +22,8 @@ And for you lazy folks out there, here ya go.
   PICOCTF{F1AG5AND5TUFF}
 </details>
 
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%236%20-%20Mr-Worldwide.md)
+
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
