@@ -84,7 +84,7 @@ format and you've got the flag.
   picoCTF{rrrocknrn0113r}
 </details>
 
-[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2315%20-%20flag_shop.md)
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2317%20-%201_wanna_b3_a_r0ck5tar.md)
 
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
