@@ -38,6 +38,8 @@ Remember, your flag is unique to you in this problem, but here's the format it s
   picoCTF{n33d_a_lArg3r_e_XXXXXXXX}
 </details>
 
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%2311%20-%20waves%20over%20lambda.md)
+
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
