@@ -17,6 +17,8 @@ This command said to search "file" for any lines containing the string "pico". T
   picoCTF{grep_is_good_to_find_things_cdb327ab}
 </details>
 
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%237%20-%20Resources.md)
+
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
