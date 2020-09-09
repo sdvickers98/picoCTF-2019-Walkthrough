@@ -19,7 +19,9 @@ here's a [website](https://morsecode.world/international/translator.html) that w
 <details>
   <summary>Flag:</summary>
   PICOCTF{M0RS3C0D31SFUN1677257287}
-</details
+</details>
+
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%238%20-%20la%20cifra%20de.md)
 
 [Return to Cryptography](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/cryptography/%230%20-%20Cryptography%20Home%20Page.md)
 
