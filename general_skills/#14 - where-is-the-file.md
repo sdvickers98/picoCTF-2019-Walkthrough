@@ -26,7 +26,7 @@ You can view the contents of `.cant_see_me` using `cat .cant_see_me`.
   picoCTF{w3ll_that_d1dnt_w0RK_a88d16e4}
 </details>
 
-[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2312%20-%20plumbing.md)
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2315%20-%20flag_shop.md)
 
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
