@@ -37,7 +37,6 @@ Again, I really don't think this is a flag
 Again, I really don't think this is a flag
 Again, I really don't think this is a flag
 Not a flag either
-...
 ```
 
 However. if you actually search through that output using a pipe and `grep`, then we can find something more useful:
