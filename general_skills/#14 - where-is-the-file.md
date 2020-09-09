@@ -5,7 +5,7 @@
 *"I've used a super secret mind trick to hide this file. Maybe something lies in /problems/where-is-the-file_6_8eae99761e71a8a21d3b82ac6cf2a7d0."*
 
 ### Solution
-If you login to the picoCTF server using `ssh` and `cd` to the directory mentioned in the problem, you'll fine a semmingly empty directory:
+If you login to the picoCTF server using `ssh`, and `cd` to the directory mentioned in the problem, you'll find a seemingly empty directory:
 ```
 $ ls
 $
