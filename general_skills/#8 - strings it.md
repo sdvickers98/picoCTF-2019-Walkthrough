@@ -20,6 +20,8 @@ $ strings strings | grep 'pico'
   picoCTF{5tRIng5_1T_0690b2a5}
 </details>
 
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%239%20-%20what's%20a%20net%20cat%3F.md)
+
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
