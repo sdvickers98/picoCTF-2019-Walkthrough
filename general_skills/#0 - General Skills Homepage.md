@@ -11,5 +11,6 @@
 9. [what's a net cat?](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%239%20-%20what's%20a%20net%20cat%3F.md)
 10. [Based](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2310%20-%20Based.md)
 11. [First Grep: Part II](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2311%20-%20First%20Grep:%20Part%20II.md)
+12. [plumbing](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2312%20-%20plumbing.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
