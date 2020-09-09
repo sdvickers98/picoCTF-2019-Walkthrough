@@ -12,5 +12,8 @@
 10. [Based](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2310%20-%20Based.md)
 11. [First Grep: Part II](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2311%20-%20First%20Grep:%20Part%20II.md)
 12. [plumbing](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2312%20-%20plumbing.md)
+13. [whats-the-difference](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2313%20-%20whats-the-difference.md)
+14. [where-is-the-file](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2314%20-%20where-is-the-file.md)
+15. [flag_shop](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2315%20-%20flag_shop.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
