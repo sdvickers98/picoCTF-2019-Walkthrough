@@ -16,6 +16,8 @@ $ nc 2019shell1.picoctf.com 47229
   picoCTF{nEtCat_Mast3ry_cc4ad2c7}
 </details>
 
+[Next Problem](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%2310%20-%20Based.md)
+
 [Return to General Skills](https://github.com/sdvickers98/picoCTF-2019-Walkthrough/blob/master/general_skills/%230%20-%20General%20Skills%20Homepage.md)
 
 [Return to Homepage](https://github.com/sdvickers98/picoCTF-2019-Walkthrough)
